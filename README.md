@@ -1,2 +1,1 @@
-# Myself
-My portfolio 
+https://atiktusar.github.io/Myself/
